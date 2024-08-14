@@ -29,7 +29,7 @@ public class Student {
     void eating(Food food){
       //NOSSO CÓDIGO AQUI
     }
-    void drinking(Eat eat){
+    void drinking(Liquid liquid){
       //NOSSO CÓDIGO AQUI
     }
     void running(){
